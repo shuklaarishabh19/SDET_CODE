@@ -15,6 +15,8 @@ public class rotateeachandeveryword {
 			
 		}
 		
+		
+		
 		StringBuffer st= new StringBuffer();
 		for(int j=0;j<c.length;j++) {
 			st.append(c[j]);
